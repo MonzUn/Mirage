@@ -11,3 +11,5 @@ DefaultConnectionIP: Used as default value for the main menu IP input text box (
 DefaultConnectionPort: Used as default value for the main menu port input text box (set to the port of the last successful connection attempt).<br>
 PlayerName: The display name of the user.<br>
 HostRequestsLogs: If true; clients will send their logs to the host.<br>
+WindowPosX: The X position of where the window will be created at startup.<br>
+WindowPosY: The Y position of where the window will be created at startup.<br>
